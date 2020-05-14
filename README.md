@@ -14,7 +14,7 @@ week3
 -----------------------------------
 week4
 -----------------------------------
-![](https://github.com/danya-psch/data-manipulation/blob/master/week4/screenshots/screenshot2.png)
+![](https://github.com/danya-psch/data-manipulation/blob/master/week4/screenshots/screenshot1.png)
 -----------------------------------
 results
 -----------------------------------
